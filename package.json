@@ -1,0 +1,11 @@
+{
+  "name": "jquery-hanzi2pinyin",
+  "version": "1.0.0",
+  "description": "This fork of caiguanhao/jquery-hanzi2pinyin is created to use this package as npm dependency properly",
+  "keywords": [],
+  "author": "caiguanhao",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "3.6.4"
+  }
+}
